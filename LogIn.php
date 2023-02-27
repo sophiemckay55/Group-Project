@@ -47,14 +47,14 @@
 	
 
 	<!-- Log In Button -->
-	<form action="file:///Applications/MAMP/htdocs/GroupProject/LogIn.php">
+	<form action="LogIn.php">
 	<div class="text-center">
     <button type="submit">Log-In</button>
 	</div>
     </form>
 	
 	<!-- New User Button -->
-	<form action="file:///Applications/MAMP/htdocs/GroupProject/LogIn.php">
+	<form action="LogIn.php">
 	<div class="text-center">
     <button type="submit">Register</button>
 	</div>
