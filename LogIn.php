@@ -47,14 +47,14 @@
 	
 
 	<!-- Log In Button -->
-	<form action="LogIn.php">
+	<form action="HomePage.php">
 	<div class="text-center">
     <button type="submit">Log-In</button>
 	</div>
     </form>
 	
 	<!-- New User Button -->
-	<form action="LogIn.php">
+	<form action="HomePage.php">
 	<div class="text-center">
     <button type="submit">Register</button>
 	</div>
