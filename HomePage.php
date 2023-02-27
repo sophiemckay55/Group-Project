@@ -45,4 +45,4 @@
 	<!-- New User Button -->
 	<button onclick="window.location.href='LogIn.php'">Register</button>
     
-	
+</html>	
