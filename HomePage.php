@@ -16,8 +16,8 @@
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			  <ul class="nav navbar-nav navbar-right">
-				<li><a href="#login">LOG-IN</a></li>
-				<li><a href="#browse">BROWSE</a></li>
+				<li><a href="LogIn.php">LOG-IN</a></li>
+				<li><a href="Browse.php">BROWSE</a></li>
 				<li><a href="#reviews">REVIEWS</a></li>
 				<li><a href="#myratings">MY RATINGS</a></li>
 				<li><a href="#home">HOME</a></li>
